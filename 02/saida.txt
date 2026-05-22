@@ -1,0 +1,2 @@
+Olá, arquivo!
+Texto a ser escrito no arquivo
